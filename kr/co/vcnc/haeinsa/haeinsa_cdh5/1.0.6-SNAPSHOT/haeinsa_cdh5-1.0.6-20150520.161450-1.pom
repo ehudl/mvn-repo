@@ -63,8 +63,6 @@
         <hadoop.version>2.5.0-cdh5.3.0</hadoop.version>
         <hbase.version>0.98.6-cdh5.3.0</hbase.version>
         <github.global.server>github</github.global.server>
-            <github.user>ehudl</github.user>
-        <github.repo>mvn-repo</github.repo>
     </properties>
 
     <developers>
